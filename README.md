@@ -1,7 +1,13 @@
-### Hi there, I'm Siyeon 👋
-<br>
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=FF8A65&height=300&section=header&text=SiyeonCho&fontSize=70&fontColor=212121) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SiyeonCho&fontSize=70)
 
-![Siyeon's github stats](https://github-readme-stats.vercel.app/api?username=CHOSIYEON&show_icons=true&theme=radical)
+<p align='center'> <strong> Hi there, I'm Siyeon 👋 </strong> </p>
+<br>
+<br>
+<br>
+<p align='center'> <strong> 🛠 Tech Stack 🛠</strong> </p>
+<p align='center'><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a></p>
+<!-- ![Siyeon's github stats](https://github-readme-stats.vercel.app/api?username=CHOSIYEON&show_icons=true&theme=radical) -->
 
 <!--
 **CHOSIYEON/CHOSIYEON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
