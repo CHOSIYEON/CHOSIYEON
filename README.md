@@ -1,6 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=FF8A65&height=300&section=header&text=SiyeonCho&fontSize=70&fontColor=212121) -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SiyeonCho&fontSize=70)
-
 <p align='center'> <strong> Hi there, I'm Siyeon 👋 </strong> </p>
 <br>
 <br>
