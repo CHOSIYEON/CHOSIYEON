@@ -22,6 +22,14 @@
   <img src="https://img.shields.io/badge/BitBucket-0052CC?style=flat-square&logo=BitBucket&logoColor=white"/> 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> 
 </p>
+<br>
+<br>
+<p align='center'> <strong> 🐰 About Me 🐰</strong> </p>
+<p align='center'>
+  <a href="https://velog.io/@siyeon" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
+  <a href="mailto:chosiyeonn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+</p>
+
 
 <!-- ![Siyeon's github stats](https://github-readme-stats.vercel.app/api?username=CHOSIYEON&show_icons=true&theme=radical) -->
 
