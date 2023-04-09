@@ -26,7 +26,6 @@
 <br>
 <p align='center'> <strong> 🐰 About Me 🐰</strong> </p>
 <p align='center'>
-  <a href="https://velog.io/@siyeon" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
   <a href="mailto:chosiyeonn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 <a href="https://ye0nn.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-262261?style=flat-square&logo=Gmail&logoColor=white"/>
 
